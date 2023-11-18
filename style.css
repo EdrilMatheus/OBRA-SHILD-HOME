@@ -93,6 +93,11 @@ header .logo{
     line-height: 120px;
 }
 
+.hero h1 .maior{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 270px;
+    line-height: 220px;
+}
 .about{
     display: flex;
     justify-content: center;
@@ -146,8 +151,13 @@ header .logo{
     grid-row-end: 2;
 }
 
+.line {
+    width: 80vw;
+    border: 1px solid #000;
+}
+
 .div-footer{
     background-color: #247B7B;
-    height: 40vh;
+    height: 50vh;
 
 }
