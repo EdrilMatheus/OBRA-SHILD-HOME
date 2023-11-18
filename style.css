@@ -37,7 +37,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 25px 100px;
+    padding: 15px 100px;
+    background-color: white;
 }
 
 header .logo{
@@ -51,7 +52,7 @@ header .logo{
 }
 
 .navegation ul li a{
-    color: white;
+    color: #9c9c9c;
     font-size: 18px;
     padding-bottom: 5px;
     border-bottom: 2px solid transparent;
